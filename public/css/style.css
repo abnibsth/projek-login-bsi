@@ -1,0 +1,40 @@
+      table {
+        size: 100vh;
+        height: 40vh;
+        width: 100vh;
+        }
+        .top-left  {
+            position: absolute;
+            top: 0;
+            left: 5;
+            /* text-align: left; */
+        }
+        .tabel {
+            position: absolute;
+            top: 6vh;
+            left: 2vh;
+        }
+        .nama {
+            position: absolute;
+            top: 8vh;
+            left: 2vh;
+        }
+        .nama-tabel {
+            position: absolute;
+            top: 15vh;
+            left: 2vh;
+        }
+        .kelas {
+            position: absolute;
+            top: 17vh;
+        }
+        .kelas-tabel {
+            position: absolute;
+            top: 24vh;
+            left: 2vh;
+        }
+        .submit {
+            position: absolute;
+            top: 30vh;
+            left: 2vh;
+        }
